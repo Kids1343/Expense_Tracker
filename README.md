@@ -1,3 +1,14 @@
+### Downloading code snapshots
+
+You can download all the content of a branch via the "Code" button here on Github. You can then either [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) the repository or simply download the selected branch content as a ZIP file.
+
+### Running the attached code
+To run my code, navigate into a specific code snapshot folder via the `cd` command in your command prompt or terminal first.
+
+Then run `npm install` to install all required dependencies (this will create a `/node_modules` folder).
+
+**Important:** If you're using the code for a module that requires API keys or a backend (e.g. the module about sending Http requests), you'll have to use **your backend URLs** or API keys. Mine won't work (I disabled my projects).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
